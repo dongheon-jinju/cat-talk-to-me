@@ -22,3 +22,5 @@ git commit -> 커밋 메세지로 어떤 작업을 했는지 기록 후, 커밋 
 git push -> 연결된 원격 브랜치로 push하기
 - git push 명령어만 사용할 경우, git push origin main 명령어와 같이 현재 메인에서 메인으로 업데이트 됩니다.
 - 
+
+배가 고프고 졸려요
